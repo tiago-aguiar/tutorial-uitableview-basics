@@ -6,10 +6,10 @@ Primeiro, você precisa saber que a Table View é um dos componentes mais utiliz
 
 O exemplo mais claro são aplicativos já incluso dentro do seu iPhone como por exemplo:
 
-Configurações
-Contatos
-TODO lists
-App de Email
+- Configurações
+- Contatos
+- TODO lists
+- App de Email
 
 Acesse o link acima e leia o tutorial completo.
 
